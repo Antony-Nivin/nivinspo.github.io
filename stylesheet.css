@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+.header{
+  height:100px;
+  background-color: white;
+  margin:1px;
+}
+.container {
+  height: 80px;
+  width: 100%;
+  background-color: #C0C0C0;
+  position: fixed;
+  margin: 0 auto;
+
+}
+
+.header-center{
+  text-align: center;
+}
+.header-center h1{
+  font-size: 30px;
+  font-family:"wide latin";
+}
+.logo{
+  width:80px;
+
+}
+.header-left{
+  float:left;
+  margin:1px auto;
+  position: fixed;
+}
+
+
+.main{
+  height:700px;
+  background-color: black;
+  position: relative;
+
+}
+.footer{
+  height: 10px;
+  background-color: black;
+}
+li{
+  float:left;
+}
